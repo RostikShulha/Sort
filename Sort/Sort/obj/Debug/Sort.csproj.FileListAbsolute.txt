@@ -1,0 +1,8 @@
+D:\Універ\Алгоритмізація та програмування\Sort\Sort\bin\Debug\Sort.exe.config
+D:\Універ\Алгоритмізація та програмування\Sort\Sort\bin\Debug\Sort.exe
+D:\Універ\Алгоритмізація та програмування\Sort\Sort\bin\Debug\Sort.pdb
+D:\Універ\Алгоритмізація та програмування\Sort\Sort\obj\Debug\Sort.csproj.AssemblyReference.cache
+D:\Універ\Алгоритмізація та програмування\Sort\Sort\obj\Debug\Sort.csproj.SuggestedBindingRedirects.cache
+D:\Універ\Алгоритмізація та програмування\Sort\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+D:\Універ\Алгоритмізація та програмування\Sort\Sort\obj\Debug\Sort.exe
+D:\Універ\Алгоритмізація та програмування\Sort\Sort\obj\Debug\Sort.pdb
